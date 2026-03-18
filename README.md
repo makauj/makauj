@@ -43,7 +43,7 @@ performance, and maintainability.
 
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - Portfolio: https://your-portfolio.com
-- Email: you@example.com
+- Email: <makauwanyoike@gmail.com>
 
 ---
 
