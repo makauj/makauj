@@ -30,9 +30,44 @@ performance, and maintainability.
 
 ## Featured Work
 
-- Add your best 3-6 projects here with short one-line outcomes.
-- Example: "Built a workflow API that reduced manual ops by 60%"
-- Example: "Created a dashboard with <1.5s median page load time"
+### Simple Unix Shell
+
+[![Repo](https://img.shields.io/badge/Repository-simple__shell-181717?style=flat&logo=github)](https://github.com/makauj/simple_shell)
+![Language](https://img.shields.io/badge/Language-C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+A lightweight Unix shell built from scratch in C, designed to replicate core shell behavior while emphasizing robust parsing and process control.
+
+- Implemented command tokenization, PATH resolution, and process execution flow.
+- Added support for built-ins and improved error handling for invalid commands.
+- Focused on clean memory management and predictable behavior under edge cases.
+
+Tech: C, POSIX system calls, Linux CLI
+
+### NYT Spelling Bee Solver
+
+[![Repo](https://img.shields.io/badge/Repository-words-181717?style=flat&logo=github)](https://github.com/makauj/words)
+![Domain](https://img.shields.io/badge/Domain-Algorithms-0A66C2?style=flat)
+
+A word-search utility that solves Spelling Bee style puzzles by filtering and scoring valid words from a dictionary.
+
+- Built efficient word filtering based on center-letter and allowed-letter constraints.
+- Added ranking logic to surface high-value candidate words quickly.
+- Structured the solver for easy extension to other word game formats.
+
+Tech: Python, dictionaries/sets, string algorithms
+
+### Custom printf Implementation
+
+[![Repo](https://img.shields.io/badge/Repository-printf-181717?style=flat&logo=github)](https://github.com/makauj/printf)
+![Focus](https://img.shields.io/badge/Focus-Low--Level%20Programming-6E40C9?style=flat)
+
+A collaborative implementation of the C printf function that handles formatted output with variadic arguments.
+
+- Implemented format specifier parsing and dispatch for multiple conversion types.
+- Recreated core formatting behavior while maintaining readable, modular code.
+- Strengthened debugging and test practices around tricky formatting edge cases.
+
+Tech: C, variadic functions, parsing, modular design
 
 ## GitHub Stats
 
@@ -41,8 +76,8 @@ performance, and maintainability.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio.com
+- LinkedIn: <https://www.linkedin.com/in/john-makau-684b4356/>
+- Portfolio: <https://github.com/makauj>
 - Email: <makauwanyoike@gmail.com>
 
 ---
