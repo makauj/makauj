@@ -80,7 +80,6 @@ Tech: C, variadic functions, parsing, modular design
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makauj&show_icons=true&rank_icon=github&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makauj&layout=compact&hide_border=true)
 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 ![](https://raw.githubusercontent.com/makauj/simple_shell/output/github-contribution-grid-snake.svg)
 
 ## Connect
